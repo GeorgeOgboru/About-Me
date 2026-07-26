@@ -71,13 +71,19 @@ Seeking OT/ICS cyber security roles within energy, pharmaceutical, and critical 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ISC2%20CC-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/T%C3%9CV%20S%C3%9CD-ISMS%20Lead%20Implementer-4A154B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/SC--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</div>
+
+## Certifications (in progress)
+<div>
+<img src="https://img.shields.io/badge/ISA%2FIEC%2062443-D32F2F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CISSP-000000?style=for-the-badge" />
+
 </div>
 
 ## Projects
