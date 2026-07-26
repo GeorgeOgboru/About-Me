@@ -1,13 +1,13 @@
 # George Ogboru
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-OT/ICS cyber security professional working across critical infrastructure in the energy and pharmaceutical sectors. Background spans electrical and electronics engineering and cyber security, with a focus on securing RTU, SCADA, PLC, and HMI environments against modern threats.
+OT/ICS cyber security professional working across critical infrastructure. Background spans electrical and electronics engineering and cyber security, with a focus on securing RTU, SCADA, PLC, and HMI environments against modern threats.
 
-MSc research applied machine learning (SVM, LSTM, Random Forest, XGBoost, ensemble stacking) to IoT botnet detection, now extending into anomaly detection for industrial control systems (ICS). Currently working through the IEC 62443 Specialist pathway, alongside hands-on projects in network segmentation, secure logging, and zone-based firewall design.
+MSc research applied machine learning (SVM, LSTM, Random Forest, XGBoost, ensemble stacking) to IoT botnet detection, now extending into anomaly detection for industrial control systems (ICS). Currently working through the IEC 62443 Specialist pathway. Hands-on project in network segmentation, secure logging, and zone-based firewall design was completed as part of my MSc a year ago and is included in this portfolio as evidence of applied network security implementation.
 
 
 ## Objective
-Seeking OT/ICS cyber security roles within energy, pharmaceutical, and critical infrastructure sectors, where a background in electrical engineering and network security can support the design and defence of industrial control environments. Long-term focus on building applied research at the intersection of OT/ICS security and AI-driven anomaly detection.
+Seeking OT/ICS cyber security roles within energy, pharmaceutical, and critical infrastructure sectors, as well as specialist and major consultancies supporting these industries, where a background in electrical engineering and network security can support the design and defence of industrial control environments. Long-term focus on building applied research at the intersection of OT/ICS security and AI-driven anomaly detection.
 
 ## Skills
 
