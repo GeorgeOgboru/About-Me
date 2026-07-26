@@ -21,7 +21,7 @@ Seeking OT/ICS cyber security roles within energy, pharmaceutical, and critical 
 | SVM, LSTM, Random Forest, XGBoost, ensemble stacking  | <a href="https://google.com">Detection Lab</a>|
 | OT/ICS security: RTU, SCADA, PLC, HMI                 | SOC Automation Lab|
 | ISMS and compliance: ISO/IEC 27001, 27002, NIS2       | SOC Automation Lab|
-| Electrical and Electronics Engineering                | SOC Automation Lab|
+| Electrical and Electronics Engineering                |                   |
 
 
 ## Tools
