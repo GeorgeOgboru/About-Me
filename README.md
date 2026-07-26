@@ -39,6 +39,8 @@ Seeking OT/ICS cyber security roles within energy, pharmaceutical, and critical 
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
     <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/Dataset-CICIoT2023-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Dataset-SWaT-D32F2F?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Dataset-WADI-D32F2F?style=for-the-badge" />
 </div>
 
 ### CLoud
