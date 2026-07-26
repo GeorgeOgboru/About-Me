@@ -51,9 +51,9 @@ Seeking OT/ICS cyber security roles within energy, pharmaceutical, and critical 
 
 ### Standards & Frameworks
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/ISO%2FIEC%2027001-4A154B?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/NIST%20SP%20800--53-002E5D?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/IEC%2062443-D32F2F?style=for-the-badge" />
 </div>
 
 ### Protocols
