@@ -3,7 +3,7 @@
 
 OT/ICS cyber security professional working across critical infrastructure. Background spans electrical and electronics engineering and cyber security, with a focus on securing RTU, SCADA, PLC, and HMI environments against modern threats.
 
-MSc research applied machine learning (SVM, LSTM, Random Forest, XGBoost, ensemble stacking) to IoT botnet detection, now extending into anomaly detection for industrial control systems (ICS). Currently working through the IEC 62443 Specialist pathway. Hands-on project in network segmentation, secure logging, and zone-based firewall design was completed as part of my MSc a year ago and is included in this portfolio as evidence of applied network security implementation.
+MSc research applied machine learning (SVM, LSTM, Random Forest, XGBoost, ensemble stacking) to IoT botnet detection, now extending into anomaly detection for industrial control systems (ICS). Currently working through the IEC 62443 Specialist pathway. Hands-on project in network segmentation, secure logging, and zone-based firewall design was completed as part of my MSc and is included in this portfolio as evidence of applied network security implementation.
 
 
 ## Objective
