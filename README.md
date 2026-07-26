@@ -92,6 +92,13 @@ Seeking OT/ICS cyber security roles within energy, pharmaceutical, and critical 
 <img src="https://img.shields.io/badge/MSc-Cyber%20Security-1BA0D7?style=for-the-badge" />
 </div>
 
+## Right to Work
+<div>
+<img src="https://img.shields.io/badge/Diploma-Electronics%20Engineering-1BA0D7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BEng%20(Hons)-Electrical%20%26%20Electronics%20Engineering-1BA0D7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MSc-Cyber%20Security-1BA0D7?style=for-the-badge" />
+</div>
+
 ## Projects
 - <a href="https://github.com/GeorgeOgboru/Enterprise-Network-Security-Hardening">Enterprise Network Security Hardening - MSc Case Study</a>
 - <a href="https://github.com/GeorgeOgboru/IoT-to-OT-Anomaly-Detection-Research">IoT to OT: Anomaly Detection Research</a>
