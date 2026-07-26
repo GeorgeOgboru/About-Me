@@ -93,5 +93,5 @@ Seeking OT/ICS cyber security roles within energy, pharmaceutical, and critical 
 </div>
 
 ## Projects
-- <a href="https://github.com/GeorgeOgboru/Enterprise-Network-Security-Hardening">Enterprise Network Security Hardening - MSc Case Study</a>|
-- a href="https://github.com/GeorgeOgboru/IoT-to-OT-Anomaly-Detection-Research">IoT to OT: Anomaly Detection Research</a>
+- <a href="https://github.com/GeorgeOgboru/Enterprise-Network-Security-Hardening">Enterprise Network Security Hardening - MSc Case Study</a>
+- <a href="https://github.com/GeorgeOgboru/IoT-to-OT-Anomaly-Detection-Research">IoT to OT: Anomaly Detection Research</a>
