@@ -14,9 +14,9 @@ Seeking OT/ICS cyber security roles within energy, pharmaceutical, and critical 
 | Skill                                                 | Associated Project         |
 |-------------------------------------------------------|----------------------------|
 | Network Security Design and Hardening                 | <a href="https://github.com/GeorgeOgboru/Enterprise-Network-Security-Hardening">Enterprise Network Security Hardening - MSc Case Study</a>|
-| Network Segmentation, ACL, Firewalls and VPN          | <a href="[https://google.com](https://github.com/GeorgeOgboru/Enterprise-Network-Security-Hardening/blob/main/README.md)">Enterprise Network Security Hardening - MSc Case Study</a>|
-| Secure Network Management                             | <a href="[https://google.com](https://github.com/GeorgeOgboru/Enterprise-Network-Security-Hardening/blob/main/README.md)">Enterprise Network Security Hardening - MSc Case Study</a>|
-| SNMPv3, NTP and Centralised logging                   | <a href="[https://google.com](https://github.com/GeorgeOgboru/Enterprise-Network-Security-Hardening/blob/main/README.md)">Enterprise Network Security Hardening - MSc Case Study</a>|
+| Network Segmentation, ACL, Firewalls and VPN          | <a href="https://github.com/GeorgeOgboru/Enterprise-Network-Security-Hardening">Enterprise Network Security Hardening - MSc Case Study</a>|
+| Secure Network Management                             | <a href="https://github.com/GeorgeOgboru/Enterprise-Network-Security-Hardening">Enterprise Network Security Hardening - MSc Case Study</a>|
+| SNMPv3, NTP and Centralised logging                   | <a href="https://github.com/GeorgeOgboru/Enterprise-Network-Security-Hardening">Enterprise Network Security Hardening - MSc Case Study</a>|
 | Machine Learning or Anomaly and Intrusion Detection   | SOC Automation Lab|
 | SVM, LSTM, Random Forest, XGBoost, ensemble stacking  | <a href="https://google.com">Detection Lab</a>|
 | OT/ICS security: RTU, SCADA, PLC, HMI                 |                   |
@@ -93,5 +93,5 @@ Seeking OT/ICS cyber security roles within energy, pharmaceutical, and critical 
 </div>
 
 ## Projects
-- Enterprise Network Security Hardening - MSc Case Study
+- <a href="https://github.com/GeorgeOgboru/Enterprise-Network-Security-Hardening">Enterprise Network Security Hardening - MSc Case Study</a>|
 - IoT to OT: Anomaly Detection Research
