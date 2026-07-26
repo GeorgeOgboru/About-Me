@@ -92,6 +92,13 @@ Seeking OT/ICS cyber security roles within energy, pharmaceutical, and critical 
 <img src="https://img.shields.io/badge/MSc-Cyber%20Security-1BA0D7?style=for-the-badge" />
 </div>
 
+### Tools Used
+* Simulation platform: Cisco Packet Tracer
+* Device OS: Cisco IOS (routers and switches)
+* Protocols: TCP/IP, NAT, Syslog, SNMPv3, NTP (MD5-authenticated), IPsec/ISAKMP, DNS, HTTP/HTTPS, ICMP
+* Security controls: IPS (signature-based), ACLs, Zone-Based Policy Firewall (ZPF)
+
+
 ## Right to Work
 <div>
 * Full UK Driving Licence.
