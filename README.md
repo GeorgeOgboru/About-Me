@@ -1,9 +1,11 @@
 # George Williams
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+OT/ICS cyber security professional working across critical infrastructure in the energy and pharmaceutical sectors. Background spans electrical and electronics engineering and cyber security, with a focus on securing RTU, SCADA, PLC, and HMI environments against modern threats.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+MSc research applied machine learning (SVM, LSTM, Random Forest, XGBoost, ensemble stacking) to IoT botnet detection, now extending into anomaly detection for industrial control systems. Currently working through the IEC 62443 Specialist pathway, alongside hands-on projects in network segmentation, secure logging, and zone-based firewall design.
+
+Based between the UK and Ireland, building toward OT/ICS security consultancy work across energy, pharma, and critical infrastructure.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
