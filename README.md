@@ -94,9 +94,17 @@ Seeking OT/ICS cyber security roles within energy, pharmaceutical, and critical 
 
 ## Right to Work
 <div>
-<img src="https://img.shields.io/badge/Diploma-Electronics%20Engineering-1BA0D7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BEng%20(Hons)-Electrical%20%26%20Electronics%20Engineering-1BA0D7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MSc-Cyber%20Security-1BA0D7?style=for-the-badge" />
+* Full UK Driving Licence.
+* UK National (visa sponsorship not required).
+* PPS Number Held
+</div>
+
+## Health & Safety
+<div>
+* **BESC AME** - Basic Electrical Safety Competence for Access, Movement and Egress (Substations).
+* **EUSR** National Water Hygiene Certificate.
+* **UKPN Certificate of Competence** - Enter Substation and Avoid Danger Inside (up to and including 132kV).
+* **St John Ambulance Certificate** - Emergency First Aid at Work.
 </div>
 
 ## Projects
