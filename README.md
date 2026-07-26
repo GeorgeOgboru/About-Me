@@ -87,5 +87,5 @@ Seeking OT/ICS cyber security roles within energy, pharmaceutical, and critical 
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Projectrge-CyberSec
+- Enterprise Network Security Hardening — MSc Case Study
+- IoT to OT: Anomaly Detection Research
