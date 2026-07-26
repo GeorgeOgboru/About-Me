@@ -92,30 +92,17 @@ Seeking OT/ICS cyber security roles within energy, pharmaceutical, and critical 
 <img src="https://img.shields.io/badge/MSc-Cyber%20Security-1BA0D7?style=for-the-badge" />
 </div>
 
-## Tools Used
-* Simulation platform: Cisco Packet Tracer
-* Device OS: Cisco IOS (routers and switches)
-* Protocols: TCP/IP, NAT, Syslog, SNMPv3, NTP (MD5-authenticated), IPsec/ISAKMP, DNS, HTTP/HTTPS, ICMP
-* Security controls: IPS (signature-based), ACLs, Zone-Based Policy Firewall (ZPF)
-
-
 ## Right to Work
-<div>
 * Full UK Driving Licence.
 * UK National (visa sponsorship not required).
-    * UK National (visa sponsorship not required).
-    * UK National (visa sponsorship not required).
-* UK National (visa sponsorship not required).
-* PPS Number Held
-</div>
+* PPS Number Held.
 
 ## Health & Safety
-<div>
 * **BESC AME** - Basic Electrical Safety Competence for Access, Movement and Egress (Substations).
 * **EUSR** National Water Hygiene Certificate.
 * **UKPN Certificate of Competence** - Enter Substation and Avoid Danger Inside (up to and including 132kV).
 * **St John Ambulance Certificate** - Emergency First Aid at Work.
-</div>
+
 
 ## Projects
 - <a href="https://github.com/GeorgeOgboru/Enterprise-Network-Security-Hardening">Enterprise Network Security Hardening - MSc Case Study</a>
