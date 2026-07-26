@@ -25,7 +25,6 @@ Seeking OT/ICS cyber security roles within energy, pharmaceutical, and critical 
 
 
 ## Tools & Technologies
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Platforms
 <div>
@@ -58,9 +57,15 @@ Seeking OT/ICS cyber security roles within energy, pharmaceutical, and critical 
 
 ### Protocols
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/NAT-00599C?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Syslog-00599C?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/SNMPv3-00599C?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/NTP%20(MD5--authenticated)-00599C?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/IPsec%2FISAKMP-00599C?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/DNS-00599C?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/HTTP%2FHTTPS-00599C?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/ICMP-00599C?style=for-the-badge" />
 </div>
 
 ## Certifications
