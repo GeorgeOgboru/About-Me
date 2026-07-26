@@ -5,24 +5,24 @@ OT/ICS cyber security professional working across critical infrastructure in the
 
 MSc research applied machine learning (SVM, LSTM, Random Forest, XGBoost, ensemble stacking) to IoT botnet detection, now extending into anomaly detection for industrial control systems. Currently working through the IEC 62443 Specialist pathway, alongside hands-on projects in network segmentation, secure logging, and zone-based firewall design.
 
-Based between the UK and Ireland, building toward OT/ICS security consultancy work across energy, pharma, and critical infrastructure.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Seeking OT/ICS cyber security roles within energy, pharmaceutical, and critical infrastructure sectors, where a background in electrical engineering and network security can support the design and defence of industrial control environments. Long-term focus on building applied research at the intersection of OT/ICS security and AI-driven anomaly detection.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                                 | Associated Project         |
+|-------------------------------------------------------|----------------------------|
+| Network Security Design and Hardening                 | <a href="https://google.com">Detection Lab</a>|
+| Network Segmentation, ACL, Firewalls and VPN          | SOC Automation Lab|
+| Secure Network Management                             | SOC Automation Lab|
+| SNMPv3, NTP and Centralised logging                   | SOC Automation Lab|
+| Machine Learning or Anomaly and Intrusion Detection   | SOC Automation Lab|
+| SVM, LSTM, Random Forest, XGBoost, ensemble stacking  | <a href="https://google.com">Detection Lab</a>|
+| OT/ICS security: RTU, SCADA, PLC, HMI                 | SOC Automation Lab|
+| ISMS and compliance: ISO/IEC 27001, 27002, NIS2       | SOC Automation Lab|
+| Electrical and Electronics Engineering                | SOC Automation Lab|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
