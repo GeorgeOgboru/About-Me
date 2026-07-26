@@ -17,8 +17,8 @@ Seeking OT/ICS cyber security roles within energy, pharmaceutical, and critical 
 | Network Segmentation, ACL, Firewalls and VPN          | <a href="https://github.com/GeorgeOgboru/Enterprise-Network-Security-Hardening">Enterprise Network Security Hardening - MSc Case Study</a>|
 | Secure Network Management                             | <a href="https://github.com/GeorgeOgboru/Enterprise-Network-Security-Hardening">Enterprise Network Security Hardening - MSc Case Study</a>|
 | SNMPv3, NTP and Centralised logging                   | <a href="https://github.com/GeorgeOgboru/Enterprise-Network-Security-Hardening">Enterprise Network Security Hardening - MSc Case Study</a>|
-| Machine Learning or Anomaly and Intrusion Detection   | SOC Automation Lab|
-| SVM, LSTM, Random Forest, XGBoost, ensemble stacking  | <a href="https://google.com">Detection Lab</a>|
+| Machine Learning or Anomaly and Intrusion Detection   | IoT to OT: Anomaly Detection Research|
+| SVM, LSTM, Random Forest, XGBoost, ensemble stacking  | IoT to OT: Anomaly Detection Research|
 | OT/ICS security: RTU, SCADA, PLC, HMI                 |                   |
 | ISMS and compliance: ISO/IEC 27001, 27002, NIS2       |                   |
 | Electrical and Electronics Engineering                |                   |
