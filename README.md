@@ -98,6 +98,7 @@ Seeking OT/ICS cyber security roles within energy, pharmaceutical, and critical 
 * PPS Number Held.
 
 ## Health & Safety
+* **Safe Pass & Manual Handling**
 * **BESC AME** - Basic Electrical Safety Competence for Access, Movement and Egress (Substations).
 * **EUSR** National Water Hygiene Certificate.
 * **UKPN Certificate of Competence** - Enter Substation and Avoid Danger Inside (up to and including 132kV).
